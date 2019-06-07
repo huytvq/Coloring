@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ColoringBookFamilly</string>
+
+    <string name="loadfailed">load data failed</string>    
+    <string name="ok">OK</string>    
+    <string name="cancel">CANCEL</string>    
+    <string name="loadpicturefailed">Loading Failed, Please retry.</string>
+    <string name="download_success">Download Success</string>
+    <string name="default_font">Default font</string>
+</resources>
+
